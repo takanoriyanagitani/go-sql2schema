@@ -1,0 +1,8 @@
+{"DatabaseTypeName":"INT8","DecimalSize":{"V":{"Precision":0,"Scale":0},"Valid":false},"Name":"id","typ":{"Align":8,"FieldAlign":8,"Name":"int64","PkgPath":"","Size":8,"String":"int64","Kind":6,"Comparable":true}}
+{"DatabaseTypeName":"TEXT","DecimalSize":{"V":{"Precision":0,"Scale":0},"Valid":false},"Name":"name","typ":{"Align":8,"FieldAlign":8,"Name":"string","PkgPath":"","Size":16,"String":"string","Kind":24,"Comparable":true}}
+{"DatabaseTypeName":"FLOAT8","DecimalSize":{"V":{"Precision":0,"Scale":0},"Valid":false},"Name":"height","typ":{"Align":8,"FieldAlign":8,"Name":"float64","PkgPath":"","Size":8,"String":"float64","Kind":14,"Comparable":true}}
+{"DatabaseTypeName":"INT4","DecimalSize":{"V":{"Precision":0,"Scale":0},"Valid":false},"Name":"amount","typ":{"Align":4,"FieldAlign":4,"Name":"int32","PkgPath":"","Size":4,"String":"int32","Kind":5,"Comparable":true}}
+{"DatabaseTypeName":"BOOL","DecimalSize":{"V":{"Precision":0,"Scale":0},"Valid":false},"Name":"active","typ":{"Align":1,"FieldAlign":1,"Name":"bool","PkgPath":"","Size":1,"String":"bool","Kind":1,"Comparable":true}}
+{"DatabaseTypeName":"BYTEA","DecimalSize":{"V":{"Precision":0,"Scale":0},"Valid":false},"Name":"data","typ":{"Align":8,"FieldAlign":8,"Name":"","PkgPath":"","Size":24,"String":"[]uint8","Kind":23,"Comparable":false}}
+{"DatabaseTypeName":"INT8","DecimalSize":{"V":{"Precision":0,"Scale":0},"Valid":false},"Name":"created","typ":{"Align":8,"FieldAlign":8,"Name":"int64","PkgPath":"","Size":8,"String":"int64","Kind":6,"Comparable":true}}
+{"DatabaseTypeName":"FLOAT4","DecimalSize":{"V":{"Precision":0,"Scale":0},"Valid":false},"Name":"rate","typ":{"Align":4,"FieldAlign":4,"Name":"float32","PkgPath":"","Size":4,"String":"float32","Kind":13,"Comparable":true}}
